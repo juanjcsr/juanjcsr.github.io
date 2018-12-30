@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JCSR Dev space</title>
-    <link>http/tags/</link>
+    <link>https://blog.jcsr.me/tags/</link>
     <description>Recent content in Tags on JCSR Dev space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     
-	<atom:link href="http/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.jcsr.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
