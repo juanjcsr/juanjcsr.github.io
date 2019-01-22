@@ -4,7 +4,23 @@
     
     <url>
     
-      <loc>https://blog.jcsr.me/post/</loc>
+      <loc>http/talk/from-zero-to-containers/</loc>
+      <lastmod>2019-01-21T09:41:33-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/publication/dgo-epidemic-outbreak/</loc>
+      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/post/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -12,7 +28,7 @@
     
     <url>
     
-      <loc>https://blog.jcsr.me/publication/</loc>
+      <loc>http/publication/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -20,7 +36,7 @@
     
     <url>
     
-      <loc>https://blog.jcsr.me/talk/</loc>
+      <loc>http/talk/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -28,7 +44,8 @@
     
     <url>
     
-      <loc>https://blog.jcsr.me/categories/</loc>
+      <loc>http/publication_types/1/</loc>
+      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -36,7 +53,15 @@
     
     <url>
     
-      <loc>https://blog.jcsr.me/</loc>
+      <loc>http/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/</loc>
       <lastmod>2017-10-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -45,7 +70,8 @@
     
     <url>
     
-      <loc>https://blog.jcsr.me/publication_types/</loc>
+      <loc>http/publication_types/</loc>
+      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -53,7 +79,70 @@
     
     <url>
     
-      <loc>https://blog.jcsr.me/tags/</loc>
+      <loc>http/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/tags/agents/</loc>
+      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/tags/ai/</loc>
+      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/tags/containers/</loc>
+      <lastmod>2019-01-21T09:41:33-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/tags/docker/</loc>
+      <lastmod>2019-01-21T09:41:33-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/tags/e-health/</loc>
+      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/tags/epidemic-outbreak/</loc>
+      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http/tags/go/</loc>
+      <lastmod>2019-01-21T09:41:33-06:00</lastmod>
       <priority>0</priority>
     </url>
     
