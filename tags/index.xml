@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JCSR Dev space</title>
-    <link>http/tags/</link>
+    <link>https://jcsr.me/tags/</link>
     <description>Recent content in Tags on JCSR Dev space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     
-	<atom:link href="http/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jcsr.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>agents</title>
-      <link>http/tags/agents/</link>
+      <link>https://jcsr.me/tags/agents/</link>
       <pubDate>Wed, 30 May 2018 18:19:09 -0600</pubDate>
       
-      <guid>http/tags/agents/</guid>
+      <guid>https://jcsr.me/tags/agents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ai</title>
-      <link>http/tags/ai/</link>
+      <link>https://jcsr.me/tags/ai/</link>
       <pubDate>Wed, 30 May 2018 18:19:09 -0600</pubDate>
       
-      <guid>http/tags/ai/</guid>
+      <guid>https://jcsr.me/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>containers</title>
-      <link>http/tags/containers/</link>
+      <link>https://jcsr.me/tags/containers/</link>
       <pubDate>Mon, 21 Jan 2019 09:41:33 -0600</pubDate>
       
-      <guid>http/tags/containers/</guid>
+      <guid>https://jcsr.me/tags/containers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker</title>
-      <link>http/tags/docker/</link>
+      <link>https://jcsr.me/tags/docker/</link>
       <pubDate>Mon, 21 Jan 2019 09:41:33 -0600</pubDate>
       
-      <guid>http/tags/docker/</guid>
+      <guid>https://jcsr.me/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>e-health</title>
-      <link>http/tags/e-health/</link>
+      <link>https://jcsr.me/tags/e-health/</link>
       <pubDate>Wed, 30 May 2018 18:19:09 -0600</pubDate>
       
-      <guid>http/tags/e-health/</guid>
+      <guid>https://jcsr.me/tags/e-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>epidemic outbreak</title>
-      <link>http/tags/epidemic-outbreak/</link>
+      <link>https://jcsr.me/tags/epidemic-outbreak/</link>
       <pubDate>Wed, 30 May 2018 18:19:09 -0600</pubDate>
       
-      <guid>http/tags/epidemic-outbreak/</guid>
+      <guid>https://jcsr.me/tags/epidemic-outbreak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http/tags/go/</link>
+      <link>https://jcsr.me/tags/go/</link>
       <pubDate>Mon, 21 Jan 2019 09:41:33 -0600</pubDate>
       
-      <guid>http/tags/go/</guid>
+      <guid>https://jcsr.me/tags/go/</guid>
       <description></description>
     </item>
     

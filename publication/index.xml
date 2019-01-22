@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on JCSR Dev space</title>
-    <link>http/publication/</link>
+    <link>https://jcsr.me/publication/</link>
     <description>Recent content in Publications on JCSR Dev space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="http/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jcsr.me/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dgo Epidemic Outbreak</title>
-      <link>http/publication/dgo-epidemic-outbreak/</link>
+      <link>https://jcsr.me/publication/dgo-epidemic-outbreak/</link>
       <pubDate>Wed, 30 May 2018 18:19:09 -0600</pubDate>
       
-      <guid>http/publication/dgo-epidemic-outbreak/</guid>
+      <guid>https://jcsr.me/publication/dgo-epidemic-outbreak/</guid>
       <description></description>
     </item>
     
