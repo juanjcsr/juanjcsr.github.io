@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on JCSR Dev space</title>
+    <title>Talks on JCSR Dev space</title>
     <link>https://jcsr.me/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on JCSR Dev space</description>
+    <description>Recent content in Talks on JCSR Dev space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://jcsr.me/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Containers From Scratch</title>
       <link>https://jcsr.me/talk/from-zero-to-containers/</link>
-      <pubDate>Mon, 21 Jan 2019 09:41:33 -0600</pubDate>
+      <pubDate>Tue, 08 May 2018 07:00:00 -0600</pubDate>
       
       <guid>https://jcsr.me/talk/from-zero-to-containers/</guid>
       <description></description>

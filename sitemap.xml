@@ -1,150 +1,140 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/talk/from-zero-to-containers/</loc>
-      <lastmod>2019-01-21T09:41:33-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/talk/</loc>
+    <lastmod>2019-01-01T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/publication/dgo-epidemic-outbreak/</loc>
-      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/publication_types/1/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/post/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/authors/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/publication/dgo-epidemic-outbreak/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/publication_types/1/</loc>
-      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/authors/juan-carlos-sanchez-ruiz/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/authors/marco-antonio-ramos-corchado/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/</loc>
-      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/publication_types/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/publication_types/</loc>
-      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/publication/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/tags/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/tags/agents/</loc>
-      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/authors/vianney-mu%C3%B1oz/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/tags/ai/</loc>
-      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/tags/agents/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/tags/containers/</loc>
-      <lastmod>2019-01-21T09:41:33-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/tags/ai/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/tags/docker/</loc>
-      <lastmod>2019-01-21T09:41:33-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/tags/e-health/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/tags/e-health/</loc>
-      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/tags/epidemic-outbreak/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/tags/epidemic-outbreak/</loc>
-      <lastmod>2018-05-30T18:19:09-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/talk/from-zero-to-containers/</loc>
+    <lastmod>2018-05-08T07:00:00-06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://jcsr.me/tags/go/</loc>
-      <lastmod>2019-01-21T09:41:33-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jcsr.me/authors/juan-carlos/</loc>
+    <lastmod>2018-05-08T07:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/tags/containers/</loc>
+    <lastmod>2018-05-08T07:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/tags/docker/</loc>
+    <lastmod>2018-05-08T07:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/tags/go/</loc>
+    <lastmod>2018-05-08T07:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/author/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/authors/admin/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>

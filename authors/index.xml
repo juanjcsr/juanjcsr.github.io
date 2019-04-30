@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on JCSR Dev space</title>
+    <link>https://jcsr.me/authors/</link>
+    <description>Recent content in Authors on JCSR Dev space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 30 May 2018 18:19:09 -0600</lastBuildDate>
+    
+	<atom:link href="https://jcsr.me/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Juan Carlos Sanchez-Ruiz</title>
+      <link>https://jcsr.me/authors/juan-carlos-sanchez-ruiz/</link>
+      <pubDate>Wed, 30 May 2018 18:19:09 -0600</pubDate>
+      
+      <guid>https://jcsr.me/authors/juan-carlos-sanchez-ruiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Antonio Ramos-Corchado</title>
+      <link>https://jcsr.me/authors/marco-antonio-ramos-corchado/</link>
+      <pubDate>Wed, 30 May 2018 18:19:09 -0600</pubDate>
+      
+      <guid>https://jcsr.me/authors/marco-antonio-ramos-corchado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vianney Muñoz</title>
+      <link>https://jcsr.me/authors/vianney-mu%C3%B1oz/</link>
+      <pubDate>Wed, 30 May 2018 18:19:09 -0600</pubDate>
+      
+      <guid>https://jcsr.me/authors/vianney-mu%C3%B1oz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Carlos</title>
+      <link>https://jcsr.me/authors/juan-carlos/</link>
+      <pubDate>Tue, 08 May 2018 07:00:00 -0600</pubDate>
+      
+      <guid>https://jcsr.me/authors/juan-carlos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>https://jcsr.me/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcsr.me/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
