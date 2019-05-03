@@ -7,19 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 02 May 2019 16:54:57 -0500</lastBuildDate>
     
 	<atom:link href="https://jcsr.me/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Github Actions Para Pages</title>
-      <link>https://jcsr.me/post/github-actions/</link>
-      <pubDate>Thu, 02 May 2019 16:54:57 -0500</pubDate>
-      
-      <guid>https://jcsr.me/post/github-actions/</guid>
-      <description>Un ejemplo de cómo utilizar Github Actions para un sitio estático</description>
-    </item>
     
     <item>
       <title></title>

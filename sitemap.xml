@@ -3,46 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jcsr.me/authors/</loc>
-    <lastmod>2019-05-02T16:54:57-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jcsr.me/post/github-actions/</loc>
-    <lastmod>2019-05-02T16:54:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jcsr.me/</loc>
-    <lastmod>2019-05-02T16:54:57-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jcsr.me/post/</loc>
-    <lastmod>2019-05-02T16:54:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jcsr.me/tags/</loc>
-    <lastmod>2019-05-02T16:54:57-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jcsr.me/authors/admin/</loc>
-    <lastmod>2019-05-02T16:54:57-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jcsr.me/tags/ci/cd/</loc>
-    <lastmod>2019-05-02T16:54:57-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jcsr.me/talk/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -54,8 +14,20 @@
   </url>
   
   <url>
+    <loc>https://jcsr.me/authors/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jcsr.me/publication/dgo-epidemic-outbreak/</loc>
     <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -79,6 +51,12 @@
   <url>
     <loc>https://jcsr.me/publication/</loc>
     <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/tags/</loc>
+    <lastmod>2018-05-30T18:19:09-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -151,6 +129,15 @@
   
   <url>
     <loc>https://jcsr.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jcsr.me/authors/admin/</loc>
     <priority>0</priority>
   </url>
   
